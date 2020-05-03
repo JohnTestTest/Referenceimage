@@ -1,5 +1,5 @@
 ---
-title: "Combining Nornir with pyATS?"
+title: "Tutorial: Combining Nornir with pyATS"
 date: "2020-05-03"
 tags: ["nornir", "pyATS"]
 ---
