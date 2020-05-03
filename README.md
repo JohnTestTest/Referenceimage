@@ -20,7 +20,7 @@ After we have conducted the initial steps we will then deploy a python script (P
 
 To begin, let&#39;s first look at the directory structure and setup:
 
-![](1.png)
+![alt text](https://github.com/IPvZero/Nornir-Blog/blob/master/images/1.png?raw=true)
 
 As you can see we can our basic Nornir yaml files:
 
